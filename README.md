@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Maciej, a Frontend developer with huge passion of creating a responsive websites and applications.
+Hi! I'm Maciej, a Frontend developer with huge passion of creating a responsive websites and applications. Also, I'm a techno DJ and Muay Thai enthussiast!
 In all facets of my life, whether it's crafting code, orchestrating beats, or honing my martial skills, I approach each endeavor with passion, curiosity, and a relentless pursuit of excellence. I'm driven by the belief that creativity knows no bounds and that true fulfillment lies in the endless pursuit of mastery.
 
 
